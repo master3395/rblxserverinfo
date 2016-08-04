@@ -23,7 +23,7 @@ I assume whoever is using this has basic knowledge of php, if you don't then ple
 	Each server array consists of 5 values
 	Guid -> string
 	IP -> string
-	Ping -> float
+	Ping -> integer
 	FPS -> float
 	Players -> array
 	
